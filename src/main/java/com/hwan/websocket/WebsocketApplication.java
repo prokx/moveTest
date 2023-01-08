@@ -10,6 +10,7 @@ public class WebsocketApplication {
 		SpringApplication.run(WebsocketApplication.class, args);
 		System.out.println("hello world 입니다");
 		System.out.println("master 변경됐습니다");
+		System.out.println("git Action test");
 	}
 
 }
